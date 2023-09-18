@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@tailwind screens;
+@tailwind variants;
+
+.blurred {
+    filter: blur(2px);
+    -webkit-filter: blur(2px);
+}
